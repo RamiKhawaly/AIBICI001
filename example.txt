@@ -1,2 +1,2 @@
 This is an example file
-This file will help us to understand working with giuthub
+This file will help us to understand working with github
