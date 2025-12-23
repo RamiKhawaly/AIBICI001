@@ -1,0 +1,97 @@
+# ===============================
+# Python bytecode & cache
+# ===============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ===============================
+# Virtual environments
+# ===============================
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ===============================
+# Package / build artifacts
+# ===============================
+build/
+dist/
+develop-eggs/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+wheelhouse/
+pip-wheel-metadata/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ===============================
+# Test / coverage
+# ===============================
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+pytestdebug.log
+nosetests.xml
+coverage.xml
+
+# ===============================
+# Logs
+# ===============================
+*.log
+
+# ===============================
+# IDEs & Editors
+# ===============================
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+
+# ===============================
+# OS files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Jupyter
+# ===============================
+.ipynb_checkpoints/
+
+# ===============================
+# Environment & secrets
+# ===============================
+.env.*
+*.env
+
+# ===============================
+# Config files (INI)
+# ===============================
+*.ini
+
+# ===============================
+# Type checking / linters
+# ===============================
+.mypy_cache/
+.pytype/
+.pyre/
+
+# ===============================
+# Local databases
+# ===============================
+*.sqlite3
+*.db
