@@ -1,3 +1,7 @@
 This is an example file
 This file will help us to understand working with Git-Hub system
-We will demonstrate changes on this file.
+We will demonstrate changes on this file...
+
+
+this is a very new change
+this is the next new line
